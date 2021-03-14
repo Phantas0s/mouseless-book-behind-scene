@@ -2,12 +2,13 @@
 
 This is the Makefile and the tools I used for my book [Building Your Mouseless Development Environment](https://themouseless.dev).
 
-This book was made thanks to:
+You need to have installed:
 
 * [GNU Make](https://www.gnu.org/software/make/)
 * [Pandoc](https://pandoc.org/)
 * [ebook-converter (from Calibre)](https://manual.calibre-ebook.com/generated/en/ebook-convert.html)
 * [TeX Live](https://tug.org/texlive/)
 * [Arch Wiki - TeX Live](https://wiki.archlinux.org/index.php/TeX_Live)
+* [pandoc-latex-environment](https://github.com/chdemko/pandoc-latex-environment)
 
-Don't hesitate to contact me if you have any question!
+If you have a problem or a question, please open a new issue and try to be as descriptive as possible.

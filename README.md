@@ -1,6 +1,6 @@
 # Building Your Mouseless Development Environment - Behind the Scene
 
-This is the Makefile and the tools I used for my book [Building Your Mouseless Development Environment](https://themouseless.dev).
+This is the Makefile and the tools I used for my book [Building Your Mouseless Development Environment](https://themouseless.dev). I explain the process in a [Youtube video](https://www.youtube.com/watch?v=Tm5sv8_XWmI).
 
 You need to have installed:
 
